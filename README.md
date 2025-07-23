@@ -27,9 +27,10 @@
 
 ```bash
 git clone https://github.com/Siam-Bruh/BhauXJWT.git
+```
+```
 cd BhauXJWT
 ```
-
 ```
 python SiamXJwt_enc.py
 ```
